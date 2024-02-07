@@ -94,9 +94,9 @@ Educational Pathways to Cybersecurity Jobs <br>
 The field of cybersecurity is rapidly growing, and with this growth comes a diverse range of educational pathways aspiring cybersecurity professionals can pursue. These pathways vary in time commitment, cost, and learning style, offering options for individuals with different needs and circumstances.
 
 <ul>
-	<li>College Degree Programs ( Bachelor's and Master's Degrees )
+	<li><h3><ins>College Degree Programs ( Bachelor's and Master's Degrees )</ins></h3>
 	<ul>
- <li>Overview: Traditional college degree programs, both at the bachelor's and master's level, offer comprehensive education in cybersecurity. These programs typically cover topics from theoretical foundations to practical applications. </li>
+ <li>Overview:Traditional college degree programs, both at the bachelor's and master's level, offer comprehensive education in cybersecurity. These programs typically cover topics from theoretical foundations to practical applications. </li>
  <li>Benefits: Provides a well-rounded education, often includes opportunities for networking, internships, and access to career services.</li>
  <li>Considerations: It can be time-consuming and expensive, but financial aid and scholarships are often available.</li>
 		
@@ -105,7 +105,7 @@ The field of cybersecurity is rapidly growing, and with this growth comes a dive
 </li>
 
 
-<li>Online Courses and Certifications ( Platforms like Coursera, Udemy, and edX)
+<li><h3><ins>Online Courses and Certifications ( Platforms like Coursera, Udemy, and edX)</ins></h3>
 	<ul>
  <li>Overview: Online platforms offer courses in various aspects of cybersecurity, from beginner to advanced levels. Universities or industry professionals often create these courses. </li>
  <li>Benefits: Flexible learning schedule, often more affordable than traditional college courses, and specific to certain skills or tools in cybersecurity.</li>
@@ -120,7 +120,7 @@ The field of cybersecurity is rapidly growing, and with this growth comes a dive
 
 
 
-<li>Industry Certifications 
+<li><h3><ins>Industry Certifications </ins></h3>
 	<ul>
  <li>Examples: CompTIA Security+, Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH) </li>
  <li>Benefits: Certifications are highly valued in the cybersecurity industry and can lead to employment or career advancement.</li>
@@ -134,7 +134,7 @@ The field of cybersecurity is rapidly growing, and with this growth comes a dive
 
 
 
-<li>Vocational and Technical Schools ( Specialized Cybersecurity Programs )
+<li><h3><ins>Vocational and Technical Schools ( Specialized Cybersecurity Programs )</ins></h3>
 	<ul>
  <li>Overview: These schools offer focused programs specifically on cybersecurity, often designed to be completed in a shorter timeframe than traditional degree programs. </li>
  <li>Benefits: Hands-on learning focusing on practical skills is often less expensive and time-consuming than a four-year degree.</li>
@@ -147,7 +147,7 @@ The field of cybersecurity is rapidly growing, and with this growth comes a dive
 
 
 
-<li>Self-Learning ( Online Resources and Books )
+<li><h3><ins>Self-Learning ( Online Resources and Books )</ins></h3>
 	<ul>
  <li>Overview: For those who are self-motivated, there are ample resources available online, including tutorials, forums, and e-books.</li>
  <li>Benefits: Highly flexible and often free or low-cost, allowing learners to tailor their education to their interests.</li>
@@ -159,7 +159,7 @@ The field of cybersecurity is rapidly growing, and with this growth comes a dive
 
 
 
-<li>Hands-On Learning( Labs and Practical Exercises )
+<li><h3><ins>Hands-On Learning( Labs and Practical Exercises )</ins></h3>
 	<ul>
  <li>Overview: Engaging in hands-on projects such as setting up secure networks, participating in cybersecurity competitions, or practicing in virtual labs. </li>
  <li>Benefits: Develop practical skills and real-world experience, enhancing theoretical concept understanding.</li>
@@ -170,7 +170,7 @@ The field of cybersecurity is rapidly growing, and with this growth comes a dive
 </li>
 
 
-<li>Externships and Internships  (  Working in Industry Settings )
+<li><h3><ins>Externships and Internships  (  Working in Industry Settings )</ins></h3>
 	<ul>
  <li>Overview: Externships and internships in cybersecurity firms or IT departments provide on-the-job learning and professional experience. </li>
  <li>Benefits: Offers real-world experience, networking opportunities, and often a pathway to full-time employment.</li>
@@ -194,32 +194,75 @@ Consider a financial institution that holds sensitive customer data. A cybersecu
 <h2>List of Cybersecurity Jobs and Roles</h2>
 
 <ul>
-	<li>Information Security Analyst
+	<li><h3>Information Security Analyst</h3>
 	<ul>
-		<li>
+		<li><ins>Responsibilities:</ins>   Protect organizational computer systems and networks, monitor for security breaches, and install and update software to protect sensitive information.</li>
+		<li><ins>Salary:</ins>  Approximately $75,000 - $95,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Proficiency in networks and cloud services, various security protocols and firewalls, analytical skills, and familiarity with cybersecurity laws and regulations. </li>
 	</ul>
 	</li>
 	
-	<li>Penetration Tester (Ethical Hacker)</li>
-	<li>Cybersecurity Engineer</li>
-	<li>Chief Information Security Officer (CISO)</li>
-	<li>Security Architect</li>
-	<li>Network Security Administrator</li>
-	<li>Cybersecurity Consultant</li>
-	<li>Incident Responder</li>
-	<li>Cybersecurity Analyst</li>
-	<li>Digital Forensics Expert</li>
+<li><h3>Penetration Tester (Ethical Hacker)</h3>
+ <ul>
+		<li><ins>Responsibilities:</ins>  Simulate cyber-attacks to identify and fix system vulnerabilities before malicious hackers exploit them.</li>
+		<li><ins>Salary:</ins>  Around $80,000 - $130,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>   Expertise in programming languages like Python, SQL, and C++, understanding of networks and operating systems, ability to think like a hacker, and strong problem-solving skills. </li>
+	</ul></li>
+	<li><h3>Cybersecurity Engineer</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Design, implement, and maintain security solutions to protect organizations from cyber threats.
+</li>
+		<li><ins>Salary:</ins>  Typically $90,000 - $120,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Deep understanding of security protocols, system administration, security tools (firewalls, antivirus), and scripting languages (Python, Bash). </li>
+	</ul></li>
+	<li><h3>Chief Information Security Officer (CISO)</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Oversee and lead the IT security department, develop security strategies, and ensure the protection of data and information systems.</li>
+		<li><ins>Salary:</ins>   Generally $140,000 - $240,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Strong leadership and management skills, extensive experience in IT security, strategic planning, and knowledge of regulatory compliance requirements. </li>
+	</ul></li>
+	<li><h3>Security Architect</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Plan, design, and oversee the implementation of network and computer security for an organization.</li>
+		<li><ins>Salary:</ins>  About $100,000 - $150,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Expertise in system architecture, understanding of hardware and software security, risk management skills, and proficiency in programming and networking. </li>
+	</ul></li>
+	<li><h3>Network Security Administrator</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Manage, maintain, and regulate an organization's computer networks, ensuring security and integrity.</li>
+		<li><ins>Salary:</ins>  Ranges from $70,000 to $100,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Network management and troubleshooting, familiarity with firewall and intrusion detection/prevention protocols, and an understanding of network infrastructure. </li>
+	</ul></li>
+	<li><h3>Cybersecurity Consultant</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Provide expert advice to organizations on protecting their computer systems, networks, and data from cyber threats.</li>
+		<li><ins>Salary:</ins>  Typically $85,000 - $130,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Broad knowledge of cybersecurity, excellent communication skills, ability to analyze security systems, and expertise in regulatory compliance. </li>
+	</ul></li>
+	<li><h3>Incident Responder</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Respond to cybersecurity incidents, such as breaches or malware attacks, and manage the aftermath to minimize damage.</li>
+		<li><ins>Salary:</ins>  Around $70,000 - $100,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Ability to rapidly identify and mitigate security breaches, knowledge of forensic tools, understanding of cyber law, and strong problem-solving skills.
+ </li>
+	</ul></li>
+	<li><h3>Cybersecurity Analyst</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins> Monitor systems for unusual activities, analyze security threats, and recommend improvements to protect against future threats.</li>
+		<li><ins>Salary:</ins>  Generally $65,000 - $90,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Strong analytical skills, familiarity with cybersecurity software and hardware tools, and understanding of encryption and data protection methods. </li>
+	</ul></li>
+	<li><h3>Digital Forensics Expert</h3>
+	<ul>
+		<li><ins>Responsibilities:</ins>  Investigate cybercrimes, analyze digital evidence, and assist in legal proceedings related to cybercrimes.</li>
+		<li><ins>Salary:</ins>  About $70,000 - $120,000 per year.</li>
+		<li><ins>Knowledge and Skills:</ins>  Understanding digital forensic tools and methodologies, ability to analyze and interpret electronic data, knowledge of legal standards and procedures.These roles represent a spectrum of opportunities in the field of cybersecurity. The salaries listed are approximate and can vary based on location, experience, and company size. The required knowledge and skills are a combination of technical expertise, analytical capabilities, and leadership and communication skills in some roles. As technology evolves, these roles may adapt, and new roles may emerge, highlighting the dynamic nature of the cybersecurity field.
+ </li>
+	</ul></li>
 </ul>
 
 
  
-
-
-
-
-
-
-
 
 <h2>Conclusion</h2>
 
@@ -230,11 +273,11 @@ As our reliance on technology grows, so does the significance of cybersecurity. 
 
 <h2> Presentation</h2>
 
-<a href="https://docs.google.com/presentation/d/1ZISXXM-Ja9mxXqvc6sD-sS_f9cM8lken/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Type of Malware</a>
+
 
 
 <h2> Hands-On Labs</h2>
 
-<a href = "https://docs.google.com/document/d/1F3ZJYca7KFJypzO_lRj2EYQ9nepz4Zfi/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Cyber Study: Malware for Sale </a>
+
 
 <h2> Additional Resources</h2>
