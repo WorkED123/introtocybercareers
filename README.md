@@ -90,8 +90,21 @@ Cybersecurity is critical in our increasingly digital world. As technology advan
 
 <h2>Educational Pathways</h2>
 
-Educational Pathways to Cybersecurity Jobs
+Educational Pathways to Cybersecurity Jobs <br>
 The field of cybersecurity is rapidly growing, and with this growth comes a diverse range of educational pathways aspiring cybersecurity professionals can pursue. These pathways vary in time commitment, cost, and learning style, offering options for individuals with different needs and circumstances.
+
+<ul>
+	<li>College Degree Programs 
+	<ul>
+ <li>Overview: </li>
+ <li></li>
+ <li></li>
+		
+</ul>
+	
+</li>
+	
+</ul>
 
 
  
