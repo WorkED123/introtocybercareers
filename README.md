@@ -59,9 +59,9 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>A0042 - Ability to develop career path opportunities.</li><br>
-<li>K0150 - Knowledge of enterprise incident response program, roles, and responsibilities.</li><br>
-<li>K0233 - Knowledge of the National Cybersecurity Workforce Framework, work roles, associated tasks, knowledge, skills, and abilities.</li>
+<li>A0042: Ability to develop career path opportunities.</li><br>
+<li>K0150: Knowledge of enterprise incident response program, roles, and responsibilities.</li><br>
+<li>K0233: Knowledge of the National Cybersecurity Workforce Framework, work roles, associated tasks, knowledge, skills, and abilities.</li>
 
 </ul>
 
@@ -268,7 +268,17 @@ Consider a financial institution that holds sensitive customer data. A cybersecu
 
 As our reliance on technology grows, so does the significance of cybersecurity. This field offers a range of challenging and rewarding careers for those interested in protecting the digital world from emerging threats. Students are encouraged to explore and consider these roles in their future career planning.
 
-
+<h2>Definitions</h2>
+<ul>
+<li><b>Cybersecurity:</b> The practice of protecting systems, networks, and data from digital attacks, unauthorized access, and damage.</li><br>
+<li><b>Network Security:</b> Measures and protocols implemented to protect the integrity, confidentiality, and availability of data and resources on a network.</li><br>
+<li><b>Information Security Analyst:</b> A professional responsible for monitoring, analyzing, and protecting an organization's information systems and data from security breaches and threats.</li><br>
+<li><b>Penetration Tester:</b> A cybersecurity expert who simulates attacks on systems, networks, or applications to identify and fix vulnerabilities before malicious hackers can exploit them.</li><br>
+<li><b>Ethical Hacking:</b> The practice of using hacking skills and techniques in a lawful and authorized manner to assess and improve the security of systems and networks.</li><br>
+<li><b>Externship:</b> A short-term, hands-on work experience program that allows individuals to gain practical skills and knowledge in a specific field, often as part of their education.</li><br>
+<li><b>Internship:</b> A temporary work experience offered by organizations to provide practical experience and training in a particular field, typically aimed at students or recent graduates.</li><br>
+<li><b>Apprenticeship:</b> A structured training program combining on-the-job work experience with formal education, designed to develop skills and knowledge in a specific trade or profession.</li>
+</ul>
 
 
 <h2> Presentation</h2>
@@ -277,7 +287,7 @@ As our reliance on technology grows, so does the significance of cybersecurity. 
 
 
 <h2> Hands-On Labs</h2>
-
+<h2>Games</h2>
 
 
 <h2> Additional Resources</h2>
